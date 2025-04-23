@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hemanth Marella</h1>
-<h3 align="center">"Full Stack Developer with expertise in MERN and MEAN stacks, passionate about building scalable web solutions and delivering seamless user experiences."Connect with me to know more.</h3>
+<h3 align="center">"Full Stack Developer with expertise in MERN stacks, passionate about building scalable web solutions and delivering seamless user experiences."Connect with me to know more.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanth-888&label=Profile%20views&color=0e75b6&style=flat" alt="hemanth-888" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Portfolio & Zomato Clone](https://my-portfolio-888.netlify.app)
 
-- 🌱 I’m currently learning **Reactjs,Angular,Node Js,Express,Docker,Jenkins,Any CLoud Platform**
+- 🌱 I’m currently learning **Reactjs,Node Js,Express,Docker,Jenkins,JQuery,Any CLoud Platform**
 
 - 👯 I’m looking to collaborate on [Any E-commerce or service Apps](In Progress...)
 
