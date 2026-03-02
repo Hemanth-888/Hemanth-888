@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **marellahemanth888@gmail.com**
 
-- 📄 Know about my experiences [https://pdf.ac/4xElk5](https://pdf.ac/4xElk5)
+- 📄 Know about my experiences [https://pdf.ac/x5yfGZjwxW](https://pdf.ac/x5yfGZjwxW)
 
 - ⚡ Fun fact **I love solving complex coding challenges as much as I enjoy exploring the latest tech gadgets in my free time!"**
 
